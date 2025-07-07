@@ -1,0 +1,21 @@
+# Ignore all Jupyter notebook checkpoints anywhere
+**/.ipynb_checkpoints/
+
+# Ignore all .ipynb files anywhere
+**/*.ipynb
+
+# Ignore any log files anywhere
+**/*.log
+
+# Ignore logs folder anywhere
+**/logs/
+
+# Ignore work folder anywhere
+**/work/
+
+# Ignore RESULTS folder anywhere
+**/RESULTS/
+
+# Ignore Nextflow temporary and config files
+**/.nextflow.*
+**/.nextflow/
